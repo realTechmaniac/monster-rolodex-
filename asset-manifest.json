@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/realTechmaniac/monster-rolodex-.git/static/css/main.0bbc8d1f.chunk.css",
-    "main.js": "/realTechmaniac/monster-rolodex-.git/static/js/main.273b2672.chunk.js",
-    "main.js.map": "/realTechmaniac/monster-rolodex-.git/static/js/main.273b2672.chunk.js.map",
-    "runtime-main.js": "/realTechmaniac/monster-rolodex-.git/static/js/runtime-main.823e241e.js",
-    "runtime-main.js.map": "/realTechmaniac/monster-rolodex-.git/static/js/runtime-main.823e241e.js.map",
-    "static/js/2.690656e8.chunk.js": "/realTechmaniac/monster-rolodex-.git/static/js/2.690656e8.chunk.js",
-    "static/js/2.690656e8.chunk.js.map": "/realTechmaniac/monster-rolodex-.git/static/js/2.690656e8.chunk.js.map",
-    "static/js/3.84325006.chunk.js": "/realTechmaniac/monster-rolodex-.git/static/js/3.84325006.chunk.js",
-    "static/js/3.84325006.chunk.js.map": "/realTechmaniac/monster-rolodex-.git/static/js/3.84325006.chunk.js.map",
-    "index.html": "/realTechmaniac/monster-rolodex-.git/index.html",
-    "static/css/main.0bbc8d1f.chunk.css.map": "/realTechmaniac/monster-rolodex-.git/static/css/main.0bbc8d1f.chunk.css.map",
-    "static/js/2.690656e8.chunk.js.LICENSE.txt": "/realTechmaniac/monster-rolodex-.git/static/js/2.690656e8.chunk.js.LICENSE.txt"
+    "main.css": "/realTechmaniac.github.io/monster-rolodex/static/css/main.0bbc8d1f.chunk.css",
+    "main.js": "/realTechmaniac.github.io/monster-rolodex/static/js/main.273b2672.chunk.js",
+    "main.js.map": "/realTechmaniac.github.io/monster-rolodex/static/js/main.273b2672.chunk.js.map",
+    "runtime-main.js": "/realTechmaniac.github.io/monster-rolodex/static/js/runtime-main.e446a7ab.js",
+    "runtime-main.js.map": "/realTechmaniac.github.io/monster-rolodex/static/js/runtime-main.e446a7ab.js.map",
+    "static/js/2.690656e8.chunk.js": "/realTechmaniac.github.io/monster-rolodex/static/js/2.690656e8.chunk.js",
+    "static/js/2.690656e8.chunk.js.map": "/realTechmaniac.github.io/monster-rolodex/static/js/2.690656e8.chunk.js.map",
+    "static/js/3.84325006.chunk.js": "/realTechmaniac.github.io/monster-rolodex/static/js/3.84325006.chunk.js",
+    "static/js/3.84325006.chunk.js.map": "/realTechmaniac.github.io/monster-rolodex/static/js/3.84325006.chunk.js.map",
+    "index.html": "/realTechmaniac.github.io/monster-rolodex/index.html",
+    "static/css/main.0bbc8d1f.chunk.css.map": "/realTechmaniac.github.io/monster-rolodex/static/css/main.0bbc8d1f.chunk.css.map",
+    "static/js/2.690656e8.chunk.js.LICENSE.txt": "/realTechmaniac.github.io/monster-rolodex/static/js/2.690656e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.823e241e.js",
+    "static/js/runtime-main.e446a7ab.js",
     "static/js/2.690656e8.chunk.js",
     "static/css/main.0bbc8d1f.chunk.css",
     "static/js/main.273b2672.chunk.js"
